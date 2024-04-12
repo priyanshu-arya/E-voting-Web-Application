@@ -1,13 +1,7 @@
 # E - Voting Created Using Django 
 This E - Voting System Was Developed With Django(Python Framework).
-Feel free to make changes based on your requirements.
-
-
-
-If you like this project, then ADD a STAR ⭐️  to this project 👆
 
 This Voting System web application built using Django can serve as the automated voting system for organizations and/or institutions. The system works like the common election manual system of voting whereas the system must be populated by the list of the positions, candidates, and voters. The E-voting system can help a certain organization or school to minimize the voting time duration because aside providing the voters an online platform to vote, the system will automatically count the votes for each candidate. The system has 2 sides of the user interface which are the administrator and voters side. The admin user is in charge to populate and manage the data of the system and the voter side which is where the voters will choose their candidate and submit their votes.
-
 
 
 ## Features:
@@ -71,14 +65,6 @@ This Voting System web application built using Django can serve as the automated
 
 
 
-
-## Support Developer
-1. Add a Star 🌟  to this 👆 Repository
-2. Follow on Twitter/Github
-
-
-## Passport/Images
-Images are from [Unsplash](https://unsplash.com) 
 
 
 
@@ -192,7 +178,6 @@ $  python3 manage.py createsuperuser
 ```
 
 
-
 Then Add Email and Password
 
 **or Use Default Credentials**
@@ -210,8 +195,6 @@ Email: student@student.com
 Password: student
 
 
-
-
 ## How the system works
 Administrator is required to have created candidates. 
 Before creating candidates, the admin must have created positions
@@ -227,10 +210,6 @@ Same OTP is sent to voters
 Yeah, sure.
 Open `settings.py` and toggle `SEND_OTP` to  `False`
 Then, wait till server restarts
-
-## Open to contribution ?
-Yeah. Pull requests are welcomed.
-
 
 ## Having any issue using this ?
 Please, let us know. Open up an issue. 
